@@ -11,7 +11,7 @@ package bronze;
 
 import java.util.Scanner;
 
-public class plus_Cycle_1110 {
+public class plusCycle_1110 {
     public static void main(String[] args){
 
         Scanner scanner = new Scanner(System.in);
